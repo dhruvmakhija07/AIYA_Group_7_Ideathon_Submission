@@ -3,8 +3,8 @@
 ### Team Name: TechSupport
 
 Team Members:
-- Archit Lakhani (Programmer)
 - Aanya Maheshwari (Programmer)
+- Archit Lakhani (Programmer)
 - Arvindkrishna Gurumurthy (Presentation Head)
 - Dhruv Ashvin Makhija (Team Leader)
 - Lavanya Bansal (Programmer)
