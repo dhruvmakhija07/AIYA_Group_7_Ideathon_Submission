@@ -101,4 +101,6 @@ Here are some potential directions for its evolution:
 
 # References
 
-Cite any sources used throughout the blog post.
+1. https://www.lexology.com/library/detail.aspx?g=404ee360-cdc8-4772-900c-eecdca6874b9#:~:text=With%20the%20help%20of%20AI,informed%20decisions%20in%20real%2Dtime.
+2. https://imaginovation.net/blog/ai-in-sports-industry/
+3. https://madaboutsports.in/how-ai-is-used-in-cricket/
