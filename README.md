@@ -11,7 +11,7 @@ Team Members:
 
 | Title | Industry |
 |-------|----------|
-| PerformanceXcelerator | AI in Healthcare |
+| PerformanceXcelerator | AI in Sports |
 
 ## Introduction
 
