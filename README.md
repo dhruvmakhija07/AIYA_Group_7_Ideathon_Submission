@@ -1,13 +1,13 @@
 # AIYA Group 7 Submission
 
-## Topic/Domain: AI in Sports
-
-# Team Name: Team Rocket //Replace this with the team's name
+### Team Name: TechSupport
 
 Team Members:
-- Naruto
-- Luffy
-- Son Goku
+- Archit Lakhani (Programmer)
+- Aanya Maheshwari (Programmer)
+- Arvindkrishna Gurumurthy (Presentation Head)
+- Dhruv Ashvin Makhija (Team Leader)
+- Lavanya Bansal (Programmer)
 
 | Title | Industry |
 |-------|----------|
