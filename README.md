@@ -1,5 +1,6 @@
-# AIYA
-AI Internship July Business Leaders ideathon
+# AIYA Group 7 Submission
+
+## Topic/Domain: AI in Sports
 
 # Team Name: Team Rocket //Replace this with the team's name
 
